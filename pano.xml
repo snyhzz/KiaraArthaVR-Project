@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.8" hassounds="0" apprev="20986" start="node1">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" width="1484" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="1484" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level width="1484" preload="0" predecode="0" height="1484"/>
+      <level width="742" preload="0" predecode="0" height="742"/>
+      <level width="371" preload="1" predecode="1" height="371"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="281" fovmode="2">
+      <start fov="66.08" projection="4" pan="173.14" tilt="0.43"/>
+      <flyin fov="66.08" projection="4" pan="173.14" tilt="0.43"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata comment="" source="" datetime="" latitude="-6.91602649" tags="image" copyright="" author="" heading="281" nodeid="node1" customnodeid="" longitude="107.64160484" title="Kiara Artha Park" description="" info=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderradius="1" bordercolor="0x000000" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1" height="20" backgroundalpha="1" background="1" border="1" textcolor="0x000000" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="78.6775/0/100" id="Point01" pan="174.929" skinid="ht_node" title="Gate Kiara artha" distance="27.2691" url="{node2}" tilt="0" description=""/>
+      <hotspot title="" target="" id="Funfact" pan="-191.37" url="media/Fun Fact Kiara Artha Park-1.pdf" tilt="0.02" description="" skinid="ht_pdf"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" invertcontrol="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" lockedmouse="0" invertwheel="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" width="1506" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="1506" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level width="1506" preload="0" predecode="0" height="1506"/>
+      <level width="753" preload="0" predecode="0" height="753"/>
+      <level width="376" preload="1" predecode="1" height="376"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-99" fovmode="2">
+      <start fov="100" projection="4" pan="-8.19" tilt="2.2"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata comment="" source="" datetime="" latitude="-6.91609438" tags="image" copyright="" author="" heading="-99" nodeid="node2" customnodeid="" longitude="107.64184222" title="Gate Kiara artha" description="" info=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderradius="1" bordercolor="0x000000" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1" height="20" backgroundalpha="1" background="1" border="1" textcolor="0x000000" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="-126.564/0/66.08" id="Point01" pan="-25.0713" skinid="ht_node" title="Kiara Artha Park" distance="27.2691" url="{node1}" tilt="0" description=""/>
+      <hotspot target="-9.63798/0/66.08" id="Point02" pan="78.6775" skinid="ht_node" title="Solaria &amp; Local Pride" distance="21.9279" url="{node5}" tilt="0" description=""/>
+      <hotspot target="$fwd" id="Point03" pan="-118.113" skinid="ht_node" title="Mushola Kiara Artha" distance="47.4717" url="{node13}" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" invertcontrol="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" lockedmouse="0" invertwheel="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" width="1509" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="1509" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level width="1509" preload="0" predecode="0" height="1509"/>
+      <level width="754" preload="0" predecode="0" height="754"/>
+      <level width="377" preload="1" predecode="1" height="377"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="126" fovmode="2">
+      <start fov="66.08" projection="4" pan="45.39" tilt="1.71"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata comment="" source="" datetime="" latitude="-6.91629142" tags="image" copyright="" author="" heading="126" nodeid="node5" customnodeid="" longitude="107.64183417" title="Solaria &amp; Local Pride" description="" info=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderradius="1" bordercolor="0x000000" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1" height="20" backgroundalpha="1" background="1" border="1" textcolor="0x000000" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="-24.0321/0/100" id="Point01" pan="123.678" skinid="ht_node" title="Gate Kiara artha" distance="21.9279" url="{node2}" tilt="0" description=""/>
+      <hotspot target="100.63/0/100" id="Point02" pan="-9.63798" skinid="ht_node" title="Mixue &amp; Papa Skuter" distance="18.8442" url="{node3}" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" invertcontrol="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" lockedmouse="0" invertwheel="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" width="1457" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="1457" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level width="1457" preload="0" predecode="0" height="1457"/>
+      <level width="728" preload="0" predecode="0" height="728"/>
+      <level width="364" preload="1" predecode="1" height="364"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="212" fovmode="2">
+      <start fov="100" projection="4" pan="168.22" tilt="9.55"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata comment="" source="" datetime="" latitude="-6.91641258" tags="image" copyright="" author="" heading="212" nodeid="node3" customnodeid="" longitude="107.64195353" title="Mixue &amp; Papa Skuter" description="" info=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderradius="1" bordercolor="0x000000" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1" height="20" backgroundalpha="1" background="1" border="1" textcolor="0x000000" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="123.678/0/66.08" id="Point01" pan="256.362" skinid="ht_node" title="Solaria &amp; Local Pride" distance="18.8442" url="{node5}" tilt="0" description=""/>
+      <hotspot target="-37.6901/0/100" id="Point02" pan="100.63" skinid="ht_node" title="Taman Asia Afrika" distance="21.9374" url="{node4}" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" invertcontrol="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" lockedmouse="0" invertwheel="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" width="1500" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="1500" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="176" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata comment="" source="" datetime="" latitude="-6.91648447" tags="image" copyright="" author="" heading="176" nodeid="node4" customnodeid="" longitude="107.64213860" title="Taman Asia Afrika" description="" info=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderradius="1" bordercolor="0x000000" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1" height="20" backgroundalpha="1" background="1" border="1" textcolor="0x000000" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="-103.638/0/100" id="Point01" pan="244.63" skinid="ht_node" title="Mixue &amp; Papa Skuter" distance="21.9374" url="{node3}" tilt="0" description=""/>
+      <hotspot target="7.08687/0/100" id="Point02" pan="322.31" skinid="ht_node" title="Taman Asia Afrika" distance="14.9449" url="{node7}" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" invertcontrol="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" lockedmouse="0" invertwheel="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" width="1484" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="1484" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level width="1484" preload="0" predecode="0" height="1484"/>
+      <level width="742" preload="0" predecode="0" height="742"/>
+      <level width="371" preload="1" predecode="1" height="371"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="75" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata comment="" source="" datetime="" latitude="-6.91659630" tags="image" copyright="" author="" heading="75" nodeid="node7" customnodeid="" longitude="107.64206350" title="Taman Asia Afrika" description="" info=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderradius="1" bordercolor="0x000000" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1" height="20" backgroundalpha="1" background="1" border="1" textcolor="0x000000" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="-115.37/0/100" id="Point01" pan="41.3099" skinid="ht_node" title="Taman Asia Afrika" distance="14.9449" url="{node4}" tilt="0" description=""/>
+      <hotspot target="-18.5115/0/100" id="Point02" pan="7.08687" skinid="ht_node" title="Lolipops Playland and Cafe" distance="66.141" url="{node8}" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" invertcontrol="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" lockedmouse="0" invertwheel="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" width="1482" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="1482" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level width="1482" preload="0" predecode="0" height="1482"/>
+      <level width="741" preload="0" predecode="0" height="741"/>
+      <level width="370" preload="1" predecode="1" height="370"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-34" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata comment="" source="" datetime="" latitude="-6.91637264" tags="image" copyright="" author="" heading="-34" nodeid="node8" customnodeid="" longitude="107.64261871" title="Lolipops Playland and Cafe" description="" info=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderradius="1" bordercolor="0x000000" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1" height="20" backgroundalpha="1" background="1" border="1" textcolor="0x000000" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="41.3099/0/100" id="Point01" pan="78.0869" skinid="ht_node" title="Taman Asia Afrika" distance="66.141" url="{node7}" tilt="0" description=""/>
+      <hotspot target="-251.846/0/100" id="Point02" pan="-18.5115" skinid="ht_node" title="Friendship Shake Hand Sculpture" distance="25.5001" url="{node10}" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" invertcontrol="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" lockedmouse="0" invertwheel="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbiashidpi="1.000" width="1480" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="1480" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level width="1480" preload="0" predecode="0" height="1480"/>
+      <level width="740" preload="0" predecode="0" height="740"/>
+      <level width="370" preload="1" predecode="1" height="370"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-259" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata comment="" source="" datetime="" latitude="-6.91615164" tags="image" copyright="" author="" heading="-259" nodeid="node10" customnodeid="" longitude="107.64255702" title="Friendship Shake Hand Sculpture" description="" info=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderradius="1" bordercolor="0x000000" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1" height="20" backgroundalpha="1" background="1" border="1" textcolor="0x000000" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="78.0869/0/100" id="Point01" pan="-423.511" skinid="ht_node" title="Lolipops Playland and Cafe" distance="25.5001" url="{node8}" tilt="0" description=""/>
+      <hotspot target="-156.175/0/100" id="Point02" pan="-251.846" skinid="ht_node" title="Kiara Artha" distance="71.3185" url="{node11}" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" invertcontrol="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" lockedmouse="0" invertwheel="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbiashidpi="1.000" width="1507" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="1507" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level width="1507" preload="0" predecode="0" height="1507"/>
+      <level width="753" preload="0" predecode="0" height="753"/>
+      <level width="376" preload="1" predecode="1" height="376"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-252" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata comment="" source="" datetime="" latitude="-6.91551525" tags="image" copyright="" author="" heading="-252" nodeid="node11" customnodeid="" longitude="107.64247656" title="Kiara Artha" description="" info=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderradius="1" bordercolor="0x000000" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1" height="20" backgroundalpha="1" background="1" border="1" textcolor="0x000000" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="-423.511/0/100" id="Point01" pan="-424.846" skinid="ht_node" title="Friendship Shake Hand Sculpture" distance="71.3185" url="{node10}" tilt="0" description=""/>
+      <hotspot target="-162.928/0/100" id="Point02" pan="-156.175" skinid="ht_node" title="Layana Hall" distance="29.1666" url="{node12}" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" invertcontrol="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" lockedmouse="0" invertwheel="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbiashidpi="1.000" width="1487" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="1487" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level width="1487" preload="0" predecode="0" height="1487"/>
+      <level width="743" preload="0" predecode="0" height="743"/>
+      <level width="371" preload="1" predecode="1" height="371"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-286" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata comment="" source="" datetime="" latitude="-6.91554187" tags="image" copyright="" author="" heading="-286" nodeid="node12" customnodeid="" longitude="107.64221370" title="Layana Hall" description="" info=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderradius="1" bordercolor="0x000000" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1" height="20" backgroundalpha="1" background="1" border="1" textcolor="0x000000" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="-424.846/0/100" id="Point01" pan="-370.175" skinid="ht_node" title="Kiara Artha" distance="29.1666" url="{node11}" tilt="0" description=""/>
+      <hotspot target="171.436/0/100" id="Point02" pan="-162.928" skinid="ht_node" title="Mushola Kiara Artha" distance="30.3857" url="{node13}" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" invertcontrol="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" lockedmouse="0" invertwheel="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelbiashidpi="1.000" width="1519" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" height="1519" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level width="1519" preload="0" predecode="0" height="1519"/>
+      <level width="759" preload="0" predecode="0" height="759"/>
+      <level width="379" preload="1" predecode="1" height="379"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="39" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="140" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata comment="" source="" datetime="" latitude="-6.91569099" tags="image" copyright="" author="" heading="39" nodeid="node13" customnodeid="" longitude="107.64198303" title="Mushola Kiara Artha" description="" info=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label borderradius="1" bordercolor="0x000000" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" borderalpha="1" height="20" backgroundalpha="1" background="1" border="1" textcolor="0x000000" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot target="-370.175/0/100" id="Point01" pan="-17.9277" skinid="ht_node" title="Layana Hall" distance="30.3857" url="{node12}" tilt="0" description=""/>
+      <hotspot target="$fwd" id="Point03" pan="199.887" skinid="ht_node" title="Gate Kiara artha" distance="47.4717" url="{node2}" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafterinfov="140" zoomspeed="2" softedge="0" zoomfov="40" zoomout="0" blendcolor="0x000000" delay="none" type="crossdissolve" zoomafteroutfov="40" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" hideabout="0" lockedkeyboard="0" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" invertcontrol="1" lockedwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" lockedmouse="0" invertwheel="0" sensitivity="8" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="" comment="" tags="" copyright="" author="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map id="Map01" googlecustomstylecode="" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" index="0" mapprovider="openstreetmap" mapstyle="streets" mapmaxzoom="18" title="" type="web"/>
+  <map id="Map02" googlecustomstylecode="" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" index="1" mapprovider="openstreetmap" mapstyle="streets" mapmaxzoom="18" title="" type="web"/>
+</tour>
